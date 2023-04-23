@@ -1,0 +1,28 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+
+table tr td{
+    width:20px;
+    height:20px;
+}
+
+table{
+    border-collapse: collapse;
+}
+
+h1{
+    background-color: black;
+    color: red;
+    margin: 15px 0;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
